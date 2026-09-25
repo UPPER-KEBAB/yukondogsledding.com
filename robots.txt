@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://yukondogsledding.com/sitemap.xml
+Sitemap: https://UPPER-KEBAB.github.io/yukondogsledding.com/sitemap.xml
